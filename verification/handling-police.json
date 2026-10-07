@@ -1,0 +1,12 @@
+{
+  "tiers": [
+    6.5,
+    8,
+    10,
+    12.5,
+    14.5
+  ],
+  "escapeTicks": 679,
+  "scenario": "Straight clear road, acceleration from rest and actual search/escape state machine",
+  "pass": true
+}

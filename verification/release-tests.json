@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-07",
+  "suites": 16,
+  "status": "passed",
+  "method": "Node real game scripts with DOM/audio stubs; real map collision data; separate browser smoke checks",
+  "browser": {
+    "viewport": "844x390",
+    "tuningReload": true,
+    "perCarTires": true,
+    "quarryLegal": true,
+    "iceHud": true,
+    "physicalPhone": false
+  },
+  "reports": [
+    "handling.json",
+    "handling-races.json",
+    "handling-chase.json",
+    "handling-police.json",
+    "handling-queue.json",
+    "npc-replay.json",
+    "new-systems.json",
+    "new-training.json",
+    "new-ai.json",
+    "route-audit.json",
+    "audio-manager.json",
+    "reference-runs.json"
+  ]
+}

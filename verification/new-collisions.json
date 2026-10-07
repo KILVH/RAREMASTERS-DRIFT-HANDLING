@@ -1,0 +1,47 @@
+[
+  {
+    "id": "isakiy",
+    "pass": true,
+    "reverseDistance": 85.97245022847119
+  },
+  {
+    "id": "autodrom",
+    "pass": true,
+    "reverseDistance": 95.19249395940824
+  },
+  {
+    "id": "green",
+    "pass": true,
+    "reverseDistance": 92.35271525513966
+  },
+  {
+    "id": "igor",
+    "pass": true,
+    "reverseDistance": 91.69326912622877
+  },
+  {
+    "id": "lega",
+    "pass": true,
+    "reverseDistance": 95.18890473705164
+  },
+  {
+    "id": "quarry",
+    "pass": true,
+    "reverseDistance": 95.1770042159809
+  },
+  {
+    "id": "shop",
+    "pass": true,
+    "reverseDistance": 95.15233800396527
+  },
+  {
+    "id": "eco",
+    "pass": true,
+    "reverseDistance": 95.20285443074414
+  },
+  {
+    "id": "wheel",
+    "pass": true,
+    "reverseDistance": 95.22963010765989
+  }
+]

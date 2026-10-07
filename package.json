@@ -1,0 +1,9 @@
+{
+  "name": "raremasters-drift-handling",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Arcade drift with legacy-inspired handling, per-car tuning and recorded NPC runs",
+  "scripts": {
+    "test": "node qa-tests/test-audio-manager.cjs && node qa-tests/test-handling.cjs && node qa-tests/test-handling-races.cjs && node qa-tests/test-handling-chase.cjs && node qa-tests/test-handling-police.cjs && node qa-tests/test-handling-migration.cjs && node qa-tests/test-npc-replay.cjs && node qa-tests/test-audio-replay-systems.cjs && node qa-tests/test-new-collisions.cjs && node qa-tests/test-replay-dev-controls.cjs && node qa-tests/test-mobile-ui.cjs && node qa-tests/test-training-rotation.cjs && node qa-tests/test-new-ai.cjs && node qa-tests/audit-handling-routes.cjs && node qa-tests/test-replay-safety.cjs && node qa-tests/test-handling-queue.cjs"
+  }
+}

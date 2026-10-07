@@ -1,0 +1,406 @@
+[
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 21
+  },
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 616
+  },
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 599
+  },
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 764
+  },
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 693
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 13,
+    "gate": 31
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1112
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1082
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1380
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1251
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 13,
+    "gate": 30
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1167
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1136
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1449
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1313
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 6,
+    "gate": 35
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 609
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 592
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 755
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 685
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 8,
+    "gate": 34
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 667
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 649
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 827
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 750
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 8,
+    "gate": 21
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 418
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 407
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 519
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 470
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 12,
+    "gate": 21
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 462
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 450
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 574
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 520
+  },
+  {
+    "id": "quarry",
+    "direction": "forward",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 45,
+    "gate": 22
+  },
+  {
+    "id": "quarry",
+    "direction": "forward",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1317
+  },
+  {
+    "id": "quarry",
+    "direction": "forward",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1282
+  },
+  {
+    "id": "quarry",
+    "direction": "forward",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1635
+  },
+  {
+    "id": "quarry",
+    "direction": "forward",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1482
+  },
+  {
+    "id": "quarry",
+    "direction": "reverse",
+    "type": "competition",
+    "finished": true,
+    "invalid": false,
+    "score": 45,
+    "gate": 22
+  },
+  {
+    "id": "quarry",
+    "direction": "reverse",
+    "opponent": "gocha",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1330
+  },
+  {
+    "id": "quarry",
+    "direction": "reverse",
+    "opponent": "tsar",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1294
+  },
+  {
+    "id": "quarry",
+    "direction": "reverse",
+    "opponent": "borsh",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1651
+  },
+  {
+    "id": "quarry",
+    "direction": "reverse",
+    "opponent": "hustler",
+    "type": "leader",
+    "finished": true,
+    "walls": 0,
+    "ticks": 1496
+  }
+]

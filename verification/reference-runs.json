@@ -1,0 +1,65 @@
+[
+  {
+    "id": "isakiy",
+    "dir": "forward",
+    "done": true,
+    "safe": true,
+    "duration": 18.466666666666665
+  },
+  {
+    "id": "green",
+    "dir": "forward",
+    "done": true,
+    "safe": true,
+    "duration": 33.35
+  },
+  {
+    "id": "green",
+    "dir": "reverse",
+    "done": true,
+    "safe": true,
+    "duration": 35.016666666666666
+  },
+  {
+    "id": "igor",
+    "dir": "forward",
+    "done": true,
+    "safe": true,
+    "duration": 18.25
+  },
+  {
+    "id": "igor",
+    "dir": "reverse",
+    "done": true,
+    "safe": true,
+    "duration": 22.2
+  },
+  {
+    "id": "lega",
+    "dir": "forward",
+    "done": true,
+    "safe": true,
+    "duration": 12.533333333333333
+  },
+  {
+    "id": "lega",
+    "dir": "reverse",
+    "done": true,
+    "safe": true,
+    "duration": 13.85
+  },
+  {
+    "id": "quarry",
+    "dir": "forward",
+    "done": true,
+    "safe": true,
+    "duration": 39.516666666666666
+  },
+  {
+    "id": "quarry",
+    "dir": "reverse",
+    "done": true,
+    "safe": true,
+    "duration": 39.88333333333333
+  }
+]

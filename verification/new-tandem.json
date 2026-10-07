@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "gocha",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1215,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          4310.753822984409,
+          1780.5866315108726,
+          4210.565070321925,
+          1879.6256042531104
+        ],
+        "npcDistance": 4532.905833625609,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1122,
+        "walls": 7,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          4211.903763873675,
+          1878.2943908453651,
+          4351.899796315955,
+          1743.958617732694
+        ],
+        "npcDistance": 5482.367690832973,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "gocha",
+      "track": "isakiy",
+      "results": [
+        {
+          "player": 0,
+          "opponent": 23,
+          "contacts": 0
+        },
+        {
+          "player": 21,
+          "opponent": 44.904707288454915,
+          "contacts": 0
+        }
+      ],
+      "player": 21,
+      "opponentScore": 67.9,
+      "winner": "ГОЧА",
+      "date": 1791040266149
+    }
+  },
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "tsar",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1215,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          4310.753822984409,
+          1780.5866315108726,
+          4210.565070321925,
+          1879.6256042531104
+        ],
+        "npcDistance": 4532.885791730881,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1122,
+        "walls": 7,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          4211.903763873675,
+          1878.2943908453651,
+          4351.899796315955,
+          1743.958617732694
+        ],
+        "npcDistance": 5482.367690832973,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "tsar",
+      "track": "isakiy",
+      "results": [
+        {
+          "player": 0,
+          "opponent": 23,
+          "contacts": 0
+        },
+        {
+          "player": 21,
+          "opponent": 44.904707288454915,
+          "contacts": 0
+        }
+      ],
+      "player": 21,
+      "opponentScore": 67.9,
+      "winner": "ЦАРЬ",
+      "date": 1791040266226
+    }
+  },
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "borsh",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1215,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          4311.604414472131,
+          1779.7854003961702,
+          4211.409932088745,
+          1878.785637440467
+        ],
+        "npcDistance": 4531.791661099211,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1122,
+        "walls": 7,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          4211.903763873675,
+          1878.2943908453651,
+          4351.899796315955,
+          1743.958617732694
+        ],
+        "npcDistance": 5482.367690832973,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "borsh",
+      "track": "isakiy",
+      "results": [
+        {
+          "player": 0,
+          "opponent": 22,
+          "contacts": 0
+        },
+        {
+          "player": 21,
+          "opponent": 44.904707288454915,
+          "contacts": 0
+        }
+      ],
+      "player": 21,
+      "opponentScore": 66.9,
+      "winner": "БОРЩ",
+      "date": 1791040266311
+    }
+  },
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "opponent": "hustler",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1215,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          4310.753822984409,
+          1780.5866315108726,
+          4210.565070321925,
+          1879.6256042531104
+        ],
+        "npcDistance": 4533.048341975811,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1122,
+        "walls": 7,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          4211.903763873675,
+          1878.2943908453651,
+          4351.899796315955,
+          1743.958617732694
+        ],
+        "npcDistance": 5482.367690832973,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "hustler",
+      "track": "isakiy",
+      "results": [
+        {
+          "player": 0,
+          "opponent": 23,
+          "contacts": 0
+        },
+        {
+          "player": 21,
+          "opponent": 44.904707288454915,
+          "contacts": 0
+        }
+      ],
+      "player": 21,
+      "opponentScore": 67.9,
+      "winner": "ВИТАЛЯ ХАСЛЕР",
+      "date": 1791040266392
+    }
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "gocha",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2047,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          967.5687691570131,
+          1936.1767057764423,
+          1145.6951410348684,
+          2057.105855113013
+        ],
+        "npcDistance": 8636.399985854403,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2110,
+        "walls": 32,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          969.253605122919,
+          1936.4168593336992,
+          738.2321243944403,
+          1783.3350852569783
+        ],
+        "npcDistance": 11209.071843150796,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "gocha",
+      "track": "green",
+      "results": [
+        {
+          "player": 1.0095523701622418,
+          "opponent": 15,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 40.04279086540342,
+          "contacts": 0
+        }
+      ],
+      "player": 14.01,
+      "opponentScore": 55.04,
+      "winner": "ГОЧА",
+      "date": 1791040266593
+    }
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "tsar",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2047,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          967.5687691570131,
+          1936.1767057764423,
+          1144.938174184992,
+          2056.5117426791157
+        ],
+        "npcDistance": 8636.286816856034,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2110,
+        "walls": 32,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          969.253605122919,
+          1936.4168593336992,
+          738.2321243944403,
+          1783.3350852569783
+        ],
+        "npcDistance": 11209.071843150796,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "tsar",
+      "track": "green",
+      "results": [
+        {
+          "player": 1.0011672512503509,
+          "opponent": 15,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 40.04279086540342,
+          "contacts": 0
+        }
+      ],
+      "player": 14,
+      "opponentScore": 55.04,
+      "winner": "ЦАРЬ",
+      "date": 1791040266787
+    }
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "borsh",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2047,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          967.5687691570131,
+          1936.1767057764423,
+          1143.7571071659,
+          2081.7052761751825
+        ],
+        "npcDistance": 8636.503021942563,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2110,
+        "walls": 32,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          969.253605122919,
+          1936.4168593336992,
+          738.2321243944403,
+          1783.3350852569783
+        ],
+        "npcDistance": 11209.071843150796,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "borsh",
+      "track": "green",
+      "results": [
+        {
+          "player": 1.460943731284566,
+          "opponent": 14,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 40.04279086540342,
+          "contacts": 0
+        }
+      ],
+      "player": 14.46,
+      "opponentScore": 54.04,
+      "winner": "БОРЩ",
+      "date": 1791040266975
+    }
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "opponent": "hustler",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2047,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          967.5687691570131,
+          1936.1767057764423,
+          1146.325109775537,
+          2057.7347356144446
+        ],
+        "npcDistance": 8636.5837379583,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2110,
+        "walls": 32,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          969.253605122919,
+          1936.4168593336992,
+          738.2321243944403,
+          1783.3350852569783
+        ],
+        "npcDistance": 11209.071843150796,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "hustler",
+      "track": "green",
+      "results": [
+        {
+          "player": 1.2360311756942057,
+          "opponent": 14,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 40.04279086540342,
+          "contacts": 0
+        }
+      ],
+      "player": 14.24,
+      "opponentScore": 54.04,
+      "winner": "ВИТАЛЯ ХАСЛЕР",
+      "date": 1791040267148
+    }
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "gocha",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2215,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          2161.6891304814962,
+          1982.2683379882699,
+          2020.831048740525,
+          1982.43068852909
+        ],
+        "npcDistance": 8856.486951707846,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2144,
+        "walls": 1,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          2017.097894691094,
+          1982.4348685549458,
+          2224.340018996016,
+          1980.6550933069236
+        ],
+        "npcDistance": 11644.556368795667,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "gocha",
+      "track": "green",
+      "results": [
+        {
+          "player": 0,
+          "opponent": 14,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 32.32929890978794,
+          "contacts": 0
+        }
+      ],
+      "player": 13,
+      "opponentScore": 46.33,
+      "winner": "ГОЧА",
+      "date": 1791040267353
+    }
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "tsar",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2162,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          2018.2782028864196,
+          1982.4326895652173,
+          1826.2977906939038,
+          2078.0353718902843
+        ],
+        "npcDistance": 8858.80668287569,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2144,
+        "walls": 1,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          2017.097894691094,
+          1982.4348685549458,
+          2224.340018996016,
+          1980.6550933069236
+        ],
+        "npcDistance": 11644.556368795667,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "tsar",
+      "track": "green",
+      "results": [
+        {
+          "player": 0.546455458918603,
+          "opponent": 14,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 32.32929890978794,
+          "contacts": 0
+        }
+      ],
+      "player": 13.55,
+      "opponentScore": 46.33,
+      "winner": "ЦАРЬ",
+      "date": 1791040267533
+    }
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "borsh",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2166,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          2018.025365136345,
+          1982.434502571987,
+          1825.3668632501456,
+          2078.3655623216805
+        ],
+        "npcDistance": 8859.083998157152,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2144,
+        "walls": 1,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          2017.097894691094,
+          1982.4348685549458,
+          2224.340018996016,
+          1980.6550933069236
+        ],
+        "npcDistance": 11644.556368795667,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "borsh",
+      "track": "green",
+      "results": [
+        {
+          "player": 1.041312842312696,
+          "opponent": 13,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 32.32929890978794,
+          "contacts": 0
+        }
+      ],
+      "player": 14.04,
+      "opponentScore": 45.33,
+      "winner": "БОРЩ",
+      "date": 1791040267748
+    }
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "opponent": "hustler",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 2215,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          2160.520630633508,
+          1982.2735163403763,
+          2019.634472865175,
+          1982.4318360075365
+        ],
+        "npcDistance": 8858.020424542046,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 2144,
+        "walls": 1,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          2017.097894691094,
+          1982.4348685549458,
+          2224.340018996016,
+          1980.6550933069236
+        ],
+        "npcDistance": 11644.556368795667,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "hustler",
+      "track": "green",
+      "results": [
+        {
+          "player": 0,
+          "opponent": 13,
+          "contacts": 0
+        },
+        {
+          "player": 13,
+          "opponent": 32.32929890978794,
+          "contacts": 0
+        }
+      ],
+      "player": 13,
+      "opponentScore": 45.33,
+      "winner": "ВИТАЛЯ ХАСЛЕР",
+      "date": 1791040267951
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "gocha",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1147,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.8270312577948,
+          714.1605172217642,
+          259.4477057371676,
+          523.2547990969265
+        ],
+        "npcDistance": 4351.627706264816,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1160,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.82781364713315,
+          714.1649202569487,
+          500.1044607236937,
+          897.3192464415837
+        ],
+        "npcDistance": 5888.308063229153,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "gocha",
+      "track": "igor",
+      "results": [
+        {
+          "player": 3.6139698478007665,
+          "opponent": 10,
+          "contacts": 0
+        },
+        {
+          "player": 6,
+          "opponent": 31.285821569960365,
+          "contacts": 0
+        }
+      ],
+      "player": 9.61,
+      "opponentScore": 41.29,
+      "winner": "ГОЧА",
+      "date": 1791040268040
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "tsar",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1146,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.8217622092921,
+          714.1286937961299,
+          259.6846774423738,
+          523.6903750083115
+        ],
+        "npcDistance": 4351.634506140004,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1160,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.82781364713315,
+          714.1649202569487,
+          500.1044607236937,
+          897.3192464415837
+        ],
+        "npcDistance": 5888.308063229153,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "tsar",
+      "track": "igor",
+      "results": [
+        {
+          "player": 3.521636356058529,
+          "opponent": 10,
+          "contacts": 0
+        },
+        {
+          "player": 6,
+          "opponent": 31.285821569960365,
+          "contacts": 0
+        }
+      ],
+      "player": 9.52,
+      "opponentScore": 41.29,
+      "winner": "ЦАРЬ",
+      "date": 1791040268114
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "borsh",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1158,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.85757365926037,
+          714.4567672557871,
+          235.52858508116498,
+          524.0599796078831
+        ],
+        "npcDistance": 4351.427380670123,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1160,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.82781364713315,
+          714.1649202569487,
+          500.1044607236937,
+          897.3192464415837
+        ],
+        "npcDistance": 5888.308063229153,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "borsh",
+      "track": "igor",
+      "results": [
+        {
+          "player": 4.356563343664986,
+          "opponent": 8,
+          "contacts": 0
+        },
+        {
+          "player": 6,
+          "opponent": 31.285821569960365,
+          "contacts": 0
+        }
+      ],
+      "player": 10.36,
+      "opponentScore": 39.29,
+      "winner": "БОРЩ",
+      "date": 1791040268184
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "opponent": "hustler",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1152,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.8084505992884,
+          714.8428343396099,
+          259.3287373984663,
+          523.0227113091763
+        ],
+        "npcDistance": 4351.862115524706,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1160,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          357.82781364713315,
+          714.1649202569487,
+          500.1044607236937,
+          897.3192464415837
+        ],
+        "npcDistance": 5888.308063229153,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "hustler",
+      "track": "igor",
+      "results": [
+        {
+          "player": 4.060490806135836,
+          "opponent": 9,
+          "contacts": 0
+        },
+        {
+          "player": 6,
+          "opponent": 31.285821569960365,
+          "contacts": 0
+        }
+      ],
+      "player": 10.06,
+      "opponentScore": 40.29,
+      "winner": "ВИТАЛЯ ХАСЛЕР",
+      "date": 1791040268259
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "gocha",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1291,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          340.68566238720507,
+          630.1924096833566,
+          397.7176579867104,
+          855.9344228554253
+        ],
+        "npcDistance": 4593.9638434403205,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1092,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          340.1936857079192,
+          631.5756591553843,
+          620.101280421469,
+          428.39443763396827
+        ],
+        "npcDistance": 5405.779254863772,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "gocha",
+      "track": "igor",
+      "results": [
+        {
+          "player": 0.815701527955592,
+          "opponent": 10,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 31.58635796683041,
+          "contacts": 0
+        }
+      ],
+      "player": 8.82,
+      "opponentScore": 41.59,
+      "winner": "ГОЧА",
+      "date": 1791040268337
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "tsar",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1293,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          339.64823578804226,
+          633.4627139056362,
+          397.6351663114113,
+          856.2442217854409
+        ],
+        "npcDistance": 4594.694812812183,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1092,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          340.1936857079192,
+          631.5756591553843,
+          620.101280421469,
+          428.39443763396827
+        ],
+        "npcDistance": 5405.779254863772,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "tsar",
+      "track": "igor",
+      "results": [
+        {
+          "player": 0.7774623045100351,
+          "opponent": 10,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 31.58635796683041,
+          "contacts": 0
+        }
+      ],
+      "player": 8.78,
+      "opponentScore": 41.59,
+      "winner": "ЦАРЬ",
+      "date": 1791040268413
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "borsh",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 281,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          317.584360992038,
+          687.078195973896,
+          383.78096802712383,
+          639.9053856143913
+        ],
+        "npcDistance": 374.9284348873748,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1092,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          340.1936857079192,
+          631.5756591553843,
+          620.101280421469,
+          428.39443763396827
+        ],
+        "npcDistance": 5405.779254863772,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "borsh",
+      "track": "igor",
+      "results": [
+        {
+          "player": 0,
+          "opponent": 0,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 31.58635796683041,
+          "contacts": 0
+        }
+      ],
+      "player": 8,
+      "opponentScore": 31.59,
+      "winner": "БОРЩ",
+      "date": 1791040268460
+    }
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "opponent": "hustler",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 1286,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          339.42379368733583,
+          634.2323161467492,
+          398.00978646589067,
+          853.8650755950606
+        ],
+        "npcDistance": 4590.867548562497,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 1092,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          340.1936857079192,
+          631.5756591553843,
+          620.101280421469,
+          428.39443763396827
+        ],
+        "npcDistance": 5405.779254863772,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "hustler",
+      "track": "igor",
+      "results": [
+        {
+          "player": 1.0225566742188072,
+          "opponent": 9,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 31.58635796683041,
+          "contacts": 0
+        }
+      ],
+      "player": 9.02,
+      "opponentScore": 40.59,
+      "winner": "ВИТАЛЯ ХАСЛЕР",
+      "date": 1791040268535
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "gocha",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 798,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1224.0234444434516,
+          337.8701182761052,
+          1055.8803136726556,
+          205.5191838304312
+        ],
+        "npcDistance": 2963.489905882043,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 794,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1223.4473866563267,
+          336.59543036597057,
+          1291.8999002300436,
+          563.7577015566261
+        ],
+        "npcDistance": 3656.1999427817263,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "gocha",
+      "track": "lega",
+      "results": [
+        {
+          "player": 2.566070284422772,
+          "opponent": 10,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 34.25762759883785,
+          "contacts": 0
+        }
+      ],
+      "player": 10.57,
+      "opponentScore": 44.26,
+      "winner": "ГОЧА",
+      "date": 1791040268610
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "tsar",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 798,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1224.0263470299967,
+          337.876117281644,
+          1055.1378057534796,
+          205.50704056698157
+        ],
+        "npcDistance": 2963.438383481035,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 794,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1223.4473866563267,
+          336.59543036597057,
+          1291.8999002300436,
+          563.7577015566261
+        ],
+        "npcDistance": 3656.1999427817263,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "tsar",
+      "track": "lega",
+      "results": [
+        {
+          "player": 2.696790825729883,
+          "opponent": 10,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 34.25762759883785,
+          "contacts": 0
+        }
+      ],
+      "player": 10.7,
+      "opponentScore": 44.26,
+      "winner": "ЦАРЬ",
+      "date": 1791040268665
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "borsh",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 799,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1223.600087328397,
+          336.9954202014249,
+          1054.094196424724,
+          204.74142204067857
+        ],
+        "npcDistance": 2963.5502696904705,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 794,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1223.4473866563267,
+          336.59543036597057,
+          1291.8999002300436,
+          563.7577015566261
+        ],
+        "npcDistance": 3656.1999427817263,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "borsh",
+      "track": "lega",
+      "results": [
+        {
+          "player": 5.109087210415857,
+          "opponent": 9,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 34.25762759883785,
+          "contacts": 0
+        }
+      ],
+      "player": 13.11,
+      "opponentScore": 43.26,
+      "winner": "БОРЩ",
+      "date": 1791040268715
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "opponent": "hustler",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 798,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1224.0457783216132,
+          337.9162874058982,
+          1054.503325222486,
+          204.4159843338525
+        ],
+        "npcDistance": 2963.637557126771,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 794,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1223.4473866563267,
+          336.59543036597057,
+          1291.8999002300436,
+          563.7577015566261
+        ],
+        "npcDistance": 3656.1999427817263,
+        "contacts": 0
+      }
+    ],
+    "pass": true,
+    "result": {
+      "opponent": "hustler",
+      "track": "lega",
+      "results": [
+        {
+          "player": 3.1289964018499097,
+          "opponent": 10,
+          "contacts": 0
+        },
+        {
+          "player": 8,
+          "opponent": 34.25762759883785,
+          "contacts": 0
+        }
+      ],
+      "player": 11.13,
+      "opponentScore": 44.26,
+      "winner": "ВИТАЛЯ ХАСЛЕР",
+      "date": 1791040268779
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "gocha",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 893,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1101.2612865883716,
+          339.9073158493979,
+          1047.8704224550117,
+          132.94831987839228
+        ],
+        "npcDistance": 3182.085061273216,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 10801,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          1140.5712503598872,
+          209.84271938722893,
+          1119.7140450643217,
+          278.9914060770679
+        ],
+        "npcDistance": 78.00635988014064,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "gocha",
+      "track": "lega",
+      "results": [
+        {
+          "player": 1.639556975825703,
+          "opponent": 12,
+          "contacts": 0
+        },
+        {
+          "player": 0,
+          "opponent": 0,
+          "contacts": 0
+        }
+      ],
+      "player": 1.64,
+      "opponentScore": 12,
+      "winner": "ГОЧА",
+      "date": 1791040269113
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "tsar",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 893,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1101.2612865883716,
+          339.9073158493979,
+          1047.6849652496678,
+          133.7590734235344
+        ],
+        "npcDistance": 3182.0966191148227,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 10801,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          1140.5712503598872,
+          209.84271938722893,
+          1119.7140450643217,
+          278.9914060770679
+        ],
+        "npcDistance": 78.00635988014064,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "tsar",
+      "track": "lega",
+      "results": [
+        {
+          "player": 1.8752575332034271,
+          "opponent": 13,
+          "contacts": 0
+        },
+        {
+          "player": 0,
+          "opponent": 0,
+          "contacts": 0
+        }
+      ],
+      "player": 1.88,
+      "opponentScore": 13,
+      "winner": "ЦАРЬ",
+      "date": 1791040269449
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "borsh",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 899,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1101.7028070418146,
+          338.0093723135566,
+          1047.4367985418971,
+          132.81624655982407
+        ],
+        "npcDistance": 3182.2263680980627,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 10801,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          1140.5712503598872,
+          209.84271938722893,
+          1119.7140450643217,
+          278.9914060770679
+        ],
+        "npcDistance": 78.00635988014064,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "borsh",
+      "track": "lega",
+      "results": [
+        {
+          "player": 3.251647366205028,
+          "opponent": 12,
+          "contacts": 0
+        },
+        {
+          "player": 0,
+          "opponent": 0,
+          "contacts": 0
+        }
+      ],
+      "player": 3.25,
+      "opponentScore": 12,
+      "winner": "БОРЩ",
+      "date": 1791040269805
+    }
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "opponent": "hustler",
+    "stages": [
+      {
+        "stage": 1,
+        "ticks": 894,
+        "walls": 0,
+        "finished": true,
+        "invalid": false,
+        "positions": [
+          1101.7784271028315,
+          337.6603565832367,
+          1047.4669949960396,
+          132.72699751865647
+        ],
+        "npcDistance": 3182.2625799562084,
+        "contacts": 0
+      },
+      {
+        "stage": 2,
+        "ticks": 10801,
+        "walls": 0,
+        "finished": true,
+        "invalid": true,
+        "positions": [
+          1140.5712503598872,
+          209.84271938722893,
+          1119.7140450643217,
+          278.9914060770679
+        ],
+        "npcDistance": 78.00635988014064,
+        "contacts": 0
+      }
+    ],
+    "pass": false,
+    "result": {
+      "opponent": "hustler",
+      "track": "lega",
+      "results": [
+        {
+          "player": 2.4843946832832016,
+          "opponent": 12,
+          "contacts": 0
+        },
+        {
+          "player": 0,
+          "opponent": 0,
+          "contacts": 0
+        }
+      ],
+      "player": 2.48,
+      "opponentScore": 12,
+      "winner": "ВИТАЛЯ ХАСЛЕР",
+      "date": 1791040270151
+    }
+  }
+]

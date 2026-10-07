@@ -1,0 +1,74 @@
+[
+  {
+    "id": "isakiy",
+    "direction": "forward",
+    "walls": 0,
+    "time": 17.085184481923733,
+    "duration": 18.466666666666665,
+    "gap": 477.1692045384639
+  },
+  {
+    "id": "green",
+    "direction": "forward",
+    "walls": 0,
+    "time": 31.777315219985827,
+    "duration": 33.35,
+    "gap": 301.1443396041197
+  },
+  {
+    "id": "green",
+    "direction": "reverse",
+    "walls": 0,
+    "time": 33.92304384406212,
+    "duration": 35.016666666666666,
+    "gap": 358.63535553197005
+  },
+  {
+    "id": "igor",
+    "direction": "forward",
+    "walls": 0,
+    "time": 16.217678684171066,
+    "duration": 18.25,
+    "gap": 263.5371396267721
+  },
+  {
+    "id": "igor",
+    "direction": "reverse",
+    "walls": 0,
+    "time": 19.74583333333332,
+    "duration": 22.2,
+    "gap": 179.50302287892242
+  },
+  {
+    "id": "lega",
+    "direction": "forward",
+    "walls": 0,
+    "time": 10.768154322756134,
+    "duration": 12.533333333333333,
+    "gap": 463.68883742552975
+  },
+  {
+    "id": "lega",
+    "direction": "reverse",
+    "walls": 0,
+    "time": 12.391935895396204,
+    "duration": 13.85,
+    "gap": 290.6345022555916
+  },
+  {
+    "id": "quarry",
+    "direction": "forward",
+    "walls": 0,
+    "time": 38.02738462304785,
+    "duration": 39.516666666666666,
+    "gap": 297.9610254107109
+  },
+  {
+    "id": "quarry",
+    "direction": "reverse",
+    "walls": 0,
+    "time": 38.604448018192,
+    "duration": 39.88333333333333,
+    "gap": 300.120844789587
+  }
+]
